@@ -10,6 +10,7 @@
 
 #include <WiFiClientSecure.h>
 
+fgfg
 
 #define DHTPIN 14     // what pin we're connected to
 #define DHTTYPE DHT22   // DHT 22  (AM2302)
